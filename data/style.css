@@ -1,0 +1,28 @@
+/* nya! */
+
+a.chocomint {
+	text-decoration: none;
+	color: #000000;
+}
+
+a.chocomint:visited {
+	color: #0D82F7;
+}
+
+a.ebifurai {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a.ebifurai:visited {
+	color: #F70D82;
+}
+
+a.hidden {
+	text-decoration-style: dotted;
+	color: #FFFFFF;
+}
+	
+a.hidden:visited {
+	color: #82F70D;
+}
